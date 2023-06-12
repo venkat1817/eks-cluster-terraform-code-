@@ -1,6 +1,6 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
-
+#configure file command [aws eks --region ap-south-1 update-kubeconfig  --name education-eks-RAr2ceEV]
 provider "aws" {
   region = var.region
 }
