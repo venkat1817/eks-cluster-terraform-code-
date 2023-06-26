@@ -55,7 +55,7 @@ gitlabUrl: https://gitlab.com/
 ##
 ## ref: https://docs.gitlab.com/ee/ci/runners/new_creation_workflow.html
 ##
-runnerRegistrationToken: "GR1348941n1xbzX2LNLvnELS5KbCb"
+runnerRegistrationToken: "GR1348941pK2Pb6rYjA_oxyRhQ-C_"
 
 ## The Runner Token for adding new Runners to the GitLab Server. This must
 ## be retrieved from your GitLab Instance. It is token of already registered runner.
